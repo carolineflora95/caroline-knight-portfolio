@@ -1,0 +1,40 @@
+main {
+  padding: 100px;
+  font-family: "Alegreya Sans", sans-serif;
+}
+.row {
+  margin: 100px;
+  padding: 30px;
+  background: lavender;
+  border-radius: 20px;
+}
+.description {
+  padding: 50px;
+}
+img {
+  border-radius: 20px;
+}
+.appLinks {
+  padding: 15px;
+  background: purple;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  transition: 0.3s ease-in-out;
+  font-family: "Alegreya Sans", sans-serif;
+}
+.appLinks:hover {
+  background: white;
+  color: purple;
+  border: 2px solid purple;
+  cursor: pointer;
+}
+.title {
+  margin: 20px;
+}
+p {
+  padding: 20px;
+}
+nav {
+  font-family: "Alegreya Sans", sans-serif;
+}
